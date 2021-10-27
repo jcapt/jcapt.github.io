@@ -56,8 +56,9 @@ __Ragnarson__
 - Team Leader
 - Business Analyst in pre-sales
 
-### Projects
-### In-house internships for juniors
+## Projects
+
+### In-house internships
 
 Challenges:
 - Remote teaching and mentoring people that are on the start of their career
