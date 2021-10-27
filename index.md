@@ -1,91 +1,154 @@
 ---
 layout: cv
-title: Isaac Newtons's CV
+title: Adam Grzybowski's CV
 ---
-# Isaac Newton
-Physicist, Mathematician, Cambridge professor.
+# Adam Grzybowski
+One Man Army, Software Engineer
 
 <div id="webaddress">
-<a href="isaac@applesdofall.org">isaac@applesdofall.org</a>
-| <a href="http://en.wikipedia.org/wiki/Isaac_Newton">My wikipedia page</a>
+  <a href="mailto://adam.ghtr@gmail.com" target="_blank">adam.ghtr@gmail.com</a>
+| <a href="https://github.com/jcapt" target="_blank">Github</a>
+| <a href="https://linkedin.com/in/adam-grzybowski" target="_blank">Linkedin</a>
 </div>
-
 
 ## Currently
 
-Standing on the shoulders of giants
+<span style="font-size: 1.3em">
+Working as _One Man Army_\* at <a href="https://ragnarson.co" target="_blank">Ragnarson</a>
+</span>
 
-### Specialized in
+## Specialized in
 
-Laws of motion, gravitation, minting coins, disliking [Robert Hooke](http://en.wikipedia.org/wiki/Robert_Hooke)
+<span style="font-size: 1.3em">
+__Ruby__/Ruby on Rails, __Python__
+</span>
+
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ruby/ruby-original.svg" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rails/rails-original-wordmark.svg" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" height="40"/>
+
+## Backend Skills
+
+<span style="font-size: 1.3em">
+PyTorch, Django, TypeScript, Node.js, Elixir, Phoenix, JSON API, GraphQL
+</span>
+
+## Frontend Skills
+
+<span style="font-size: 1.3em">
+Vue.js, React, React Native
+</span>
+
+## DevOps Skills
+
+<span style="font-size: 1.3em">
+Nginx, SSL/TLS/Certificates, AWS/Google Cloud/Heroku, Kubernetes, deep Linux knowledge, Networking, Postgresql, Mysql
+</span>
+
+## Experience
+
+*`Aug 2018 - present`*
+
+__Ragnarson__
+
+- One Man Army
+- Software Engineer
+- Team Leader
+- Business Analyst in pre-sales
+
+### Projects
+### In-house internships for juniors
+
+Challenges:
+- Remote teaching and mentoring people that are on the start of their career
+- Supporting creation of best practices and avoidance of bad habits
+- Restructurization of my actual knowledge, in-depth update, especially in details
+
+### Recruitment platform
+
+**Tech Stack: Ruby, Ruby on Rails, Postgresql, Heroku, ElasticSearch, Salesforce**
+
+Challenges:
+- Fixing issues with Salesforce platform
+- Updating fundamental frameworks to make place for new developers
+- Building bigger team
+- Migration from old VPS to AWS cloud
+
+### Tariffs comparison portal
+
+Challenges:
+
+**Tech Stack: Ruby, Ruby on Rails, Postgresql, Node.js, Express.js, React Native, ElasticSearch, GraphQL**
+
+_As Developer_:
+- Building a service to handle the upload of high volume of files
+- Designing new backend application to microservices structure
+- Working closely with Mobile developers to integrate mobile app with backends
+- Migration of app and database from Heroku to AWS Cloud
+- Maintaining legacy code, that was built around 2013
+- Integration with Salesforce
+
+_As Team Leader_:
+- Leading the team to help them provide business value to the customer and his product
+- Helping client-side management to improve our processes and planning
+- Liaising between Ragnarson and the onsite team
+- Onboarding React Native mobile developers
 
 
-### Research interests
+### Mentorship platform
 
-Cooling, power series, optics, alchemy, planetary motions, apples.
+**Tech Stack: Ruby, Ruby on Rails, Postgresql, Heroku, ElasticSearch, Stripe, Vue.js**
 
-
-## Education
-
-`1654-1660`
-__The King's School, Grantham.__
-
-`June 1661 - now`
-__Trinity College, Cambridge__
-
-- Sizar
-
-`1667 - death`
-__Trinity College, Cambridge__
-
-- Fellow
+Challenges:
+- Preparing the platform for video/audio processing 
+- 2-way integration with Google Calendar
+- Implementation of paywall for subscription-based model using Stripe
+- Improving usability of actual calendar date picker with timezones
+- Being a part of design process of app, also assisting with business priorities and new features planning
 
 
+### Recruitment platform
 
-## Awards
+**Tech Stack: Ruby, Ruby on Rails, Postgresql, Heroku, ElasticSearch, Salesforce**
 
-`2012`
-President, *Royal Society*, London, UK
+Challenges:
+- Implementation of loyalty program
+- Excel’s file parser for monthly data uploads
+- Implementation of mass mailer for sending marketing offers
+- Live email templates, with dynamically inserted values
 
-Associate, *French Academy of Science*, Paris, France
+### Freelance project
 
+Platform that collected data from an open city CCTV system using an AI video processing.
 
+**Tech Stack: Python, pytorch, flask**
 
-## Publications
+Challenges:
+- Processing and converting intake video from CCTV cameras
+- Using AI (pytorch) to detect and label cars
+- Collecting data from processed video in a database
 
-<!-- A list is also available [online](http://scholar.google.co.uk/citations?user=LTOTl0YAAAAJ) -->
+### Rivlan
 
-### Journals
+**Tech stack: Node.js, Ruby on Rails**
 
-`1669`
-Newton Sir I, De analysi per æquationes numero terminorum infinitas. 
+Challenges:
+- Using RTMP/HLS protocols to live streaming video on top of FFMPEG
+- Building a Vue.js SPA frontend application
+- Secure JSON API based on tokens for authentication
+- Real Time chat with notifications
 
-`1669`
-Lectiones opticæ.
+### Interests
 
-etc. etc. etc.
+cybersecurity, books, human psychology, basketball, and lot of more ;)
 
-### Patents
-
-`2012`
-Infinitesimal calculus for solutions to physics problems, [SMBC](http://www.techdirt.com/articles/20121011/09312820678/if-patents-had-been-around-time-newton.shtml) patent 001
-
-
-## Occupation
-
-`1600`
-__Royal Mint__, London
-
-- Warden
-- Minted coins
-
-`1600`
-__Lucasian professor of Mathematics__, Cambridge University
+<br/><br/><br/><br/><br/>
 
 
+\* A one-man army, a heavily armed and well-trained combatant able to face numerous enemies alone
 
 <!-- ### Footer
 
-Last updated: May 2013 -->
+Last updated: Oct 2021 -->
 
 
