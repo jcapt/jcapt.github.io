@@ -3,10 +3,10 @@ layout: cv
 title: Adam Grzybowski's CV
 ---
 # Adam Grzybowski
-One Man Army, Software Engineer
+One Man Army
 
 <div id="webaddress">
-  <a href="mailto://adam.ghtr@gmail.com" target="_blank">adam.ghtr@gmail.com</a>
+  <a href="mailto:weblogs_epitome0j@icloud.com">weblogs_epitome0j@icloud.com</a>
 | <a href="https://github.com/jcapt" target="_blank">Github</a>
 | <a href="https://linkedin.com/in/adam-grzybowski" target="_blank">Linkedin</a>
 </div>
@@ -14,7 +14,7 @@ One Man Army, Software Engineer
 ## Currently
 
 <span style="font-size: 1.3em">
-Working as _One Man Army_\* at <a href="https://ragnarson.co" target="_blank">Ragnarson</a>
+Working as Software Engineer at <a href="https://codeandpepper.com" target="_blank">Code&Pepper</a>
 </span>
 
 ## Specialized in
@@ -47,7 +47,12 @@ Nginx, SSL/TLS/Certificates, AWS/Google Cloud/Heroku, Kubernetes, deep Linux kno
 
 ## Experience
 
-*`Aug 2018 - present`*
+`Apr 2022 - Present`
+
+__Code&Pepper__
+- Software Engineer
+
+`Aug 2018 - Mar 2022`
 
 __Ragnarson__
 
