@@ -14,23 +14,24 @@ One Man Army
 ## Currently
 
 <span style="font-size: 1.3em">
-Working as Software Engineer at <a href="https://codeandpepper.com" target="_blank">Code&Pepper</a>
+Working as Senior Software Engineer at <a href="https://codeandpepper.com" target="_blank">Code&Pepper</a>
 </span>
 
 ## Specialized in
 
 <span style="font-size: 1.3em">
-__Ruby__/Ruby on Rails, __Python__
+__Ruby__/Ruby on Rails, __Python__, __TypeScript__
 </span>
 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ruby/ruby-original.svg" width="40" height="40"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rails/rails-original-wordmark.svg" width="40" height="40"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="40" height="40"/>
 
 ## Backend Skills
 
 <span style="font-size: 1.3em">
-PyTorch, Django, TypeScript, Node.js, Elixir, Phoenix, JSON API, GraphQL
+PyTorch, Django, Node.js, Elixir, Phoenix, JSON API, GraphQL
 </span>
 
 ## Frontend Skills
@@ -50,7 +51,25 @@ Nginx, SSL/TLS/Certificates, AWS/Google Cloud/Heroku, Kubernetes, deep Linux kno
 `Apr 2022 - Present`
 
 __Code&Pepper__
-- Software Engineer
+- Senior Software Engineer
+
+### Projects
+### FinTech platform
+Established provider of currency trading solutions, which accelerate global access to frontier markets through an innovative infrastructure.
+
+**Tech Stack: Ruby, Ruby on Rails, TypeScript, Node.js**
+
+Challenges:
+- Integrating services with Banks and financial institutions
+- Spinning up microservices (in Ruby and Node) used by main API
+- Securing weak security spots (working with hackerone findings)
+- Resolving issues and improving setup script of 30+ services
+
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
 
 `Aug 2018 - Mar 2022`
 
