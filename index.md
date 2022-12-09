@@ -102,7 +102,7 @@ Challenges:
 
 Challenges:
 
-**Tech Stack: Ruby, Ruby on Rails, Postgresql, Node.js, Express.js, React Native, ElasticSearch, GraphQL**
+**Tech Stack: Ruby, Ruby on Rails, TypeScript, Node.js, Express.js, Postgresql, React Native, ElasticSearch, GraphQL**
 
 _As Developer_:
 - Building a service to handle the upload of high volume of files
