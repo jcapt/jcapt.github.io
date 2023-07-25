@@ -20,18 +20,19 @@ Working as Senior Software Engineer at <a href="https://codeandpepper.com" targe
 ## Specialized in
 
 <span style="font-size: 1.3em">
-__Ruby__/Ruby on Rails, __Python__, __TypeScript__
+__Ruby__/Ruby on Rails, __Python__, __TypeScript__, Rust
 </span>
 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ruby/ruby-original.svg" width="40" height="40"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rails/rails-original-wordmark.svg" width="40" height="40"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rust/rust-plain.svg" width="40" height="40"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="40" height="40"/>
 
 ## Backend Skills
 
 <span style="font-size: 1.3em">
-PyTorch, Django, Node.js, Elixir, Phoenix, JSON API, GraphQL
+Django, Node.js, Elixir, Phoenix, JSON API, GraphQL, Microservices, DDD
 </span>
 
 ## Frontend Skills
@@ -54,6 +55,18 @@ __Code&Pepper__
 - Senior Software Engineer
 
 ### Projects
+### Sneaker Store Platform
+Workflow tool designed to automate and streamline everything to do with managing alternative assets.
+
+**Tech Stack: Ruby, Ruby on Rails, React, Swift, Postgresql, Heroku, AWS**
+
+Challenges:
+- Getting out of techincal debt
+- Redesigning how size system for shoes was imlpemented
+- Building bulk shipping (sending many items for warehouse in one package)
+- Redesiging API to be more flexible and easy to use
+- Introducing best practices and code quality tools
+
 ### FinTech platform
 Established provider of currency trading solutions, which accelerate global access to frontier markets through an innovative infrastructure.
 
